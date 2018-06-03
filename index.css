@@ -1,0 +1,21 @@
+html,body{
+	overflow: hidden;
+	margin: 0px;
+
+}
+
+
+.BG{
+	width: 1114px;
+	height: 626px;
+	display:flex;
+	justify-content:center;
+	align-content:center;
+}
+
+
+.BG img{
+	margin-top: -20px;
+	width: 1114px;
+	height: 626px;
+}
